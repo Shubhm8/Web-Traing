@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml_components>
+    <component>
+        <name>Element</name>
+        <description>
+            An element is a fundamental part of an XML document. It consists of an opening tag, a closing tag, and the content enclosed between them.
+        </description>
+    </component>
+    <component>
+        <name>Attribute</name>
+        <description>
+            Attributes provide additional information about an element. They are specified within the opening tag and have a name and a value.
+        </description>
+    </component>
+    <component>
+        <name>Text</name>
+        <description>
+            Text is the character data contained within an element. It can include any valid text content, such as words, numbers, and symbols.
+        </description>
+    </component>
+    <component>
+        <name>Comment</name>
+        <description>
+            Comments are used for adding human-readable explanations or notes within an XML document. They are enclosed in `<!--` and `-->`.
+        </description>
+    </component>
+    <component>
+        <name>Processing Instruction</name>
+        <description>
+            Processing instructions are used to provide instructions to the application processing the XML. They start with `<?` and end with `?>`.
+        </description>
+    </component>
+    <component>
+        <name>CDATA Section</name>
+        <description>
+            CDATA (Character Data) sections allow you to include unparsed character data within an element. They are enclosed in `<![CDATA[` and `]]>`.
+        </description>
+    </component>
+    <component>
+        <name>Document Type Declaration (DTD)</name>
+        <description>
+            A DTD defines the structure and the legal elements and attributes of an XML document. It is typically placed at the top of the document.
+        </description>
+    </component>
+</xml_components>

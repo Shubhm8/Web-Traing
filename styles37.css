@@ -1,0 +1,20 @@
+
+.custom-ul {
+    list-style-type: square; 
+    margin-left: 20px; 
+  }
+  
+  .custom-ul li {
+    color: #0077b6; 
+  }
+  
+  
+  .custom-ol {
+    list-style-type: lower-roman; 
+    margin-left: 20px; 
+  }
+  
+  .custom-ol li {
+    color: #ff6b6b; 
+  }
+  

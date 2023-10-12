@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book>
+        <category>Fiction</category>
+        <title>The Great Gatsby</title>
+        <author>F. Scott Fitzgerald</author>
+        <year>1925</year>
+        <price currency="USD">12.99</price>
+    </book>
+    <book>
+        <category>Science Fiction</category>
+        <title>Dune</title>
+        <author>Frank Herbert</author>
+        <year>1965</year>
+        <price currency="USD">14.95</price>
+    </book>
+    <book>
+        <category>Mystery</category>
+        <title>Sherlock Holmes: The Hound of the Baskervilles</title>
+        <author>Arthur Conan Doyle</author>
+        <year>1902</year>
+        <price currency="GBP">9.99</price>
+    </book>
+    <book>
+        <category>Non-Fiction</category>
+        <title>Sapiens: A Brief History of Humankind</title>
+        <author>Yuval Noah Harari</author>
+        <year>2014</year>
+        <price currency="USD">18.99</price>
+    </book>
+</library>

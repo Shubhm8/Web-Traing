@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+    <book>
+        <title>XML for Beginners</title>
+        <author>John Doe</author>
+        <published>2023</published>
+        <price currency="USD">29.99</price>
+    </book>
+    <book>
+        <title>Web Design with XML</title>
+        <author>Jane Smith</author>
+        <published>2022</published>
+        <price currency="EUR">24.95</price>
+    </book>
+</bookstore>
